@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Qspider</string>
+    <string name="device_description">device_description</string>
+    <string name="device_admin_label">device_admin_label</string>
+    <string name="fast_input_label">Fast Input</string>
+
+    <string name="accessibility_service_label">Access label</string>
+
+    <string name="accessibility_service_description">Service Description</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Username
+    </string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_success">"Login success"</string>
+
+</resources>
